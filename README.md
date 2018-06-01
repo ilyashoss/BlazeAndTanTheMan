@@ -1,6 +1,8 @@
 # BlazeAndTanTheMan
 FastLane
 
+THINGS WE NEED TO DO.
+
 1-Turn the background image into a slide show of possible 5 images.
 
 2-The downward arrows on the background image should take user to "our service" 
