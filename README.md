@@ -8,10 +8,10 @@ THINGS WE NEED TO DO.
 2-The downward arrows on the background image should take user to "our service" 
 
 3-at the bottom of page have the
-   a- Contact info
-   b- Address
-   c- Business Hours
-   d- Maybe Map - depending on Google maps permissions or image of easily finding the shop
+   a) Contact info
+   b) Address
+   c) Business Hours
+   d) Maybe Map - depending on Google maps permissions or image of easily finding the shop
 
 4- Remove get in touch section at the bottom. DONT NEED IT. 
 
