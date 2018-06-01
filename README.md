@@ -20,8 +20,8 @@ THINGS WE NEED TO DO.
 6- Update "Our Services" icons
 
 7- Modify Menu bar -
-   a- Where it says "drop down menu"  - put a phone icon that will call number 703-447-1151 for mobile or display the number to call for browser. 
-   b- Link contact, services, About to each part of the page. 
+a) Where it says "drop down menu"  - put a phone icon that will call number 703-447-1151 for mobile or display the number to call for browser. 
+b) Link contact, services, About to each part of the page. 
 
 -- Keep everything pretty much as a single page as it is. So its nice and Clean.
 
