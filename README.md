@@ -12,6 +12,8 @@ THINGS WE NEED TO DO.
    b) Address
    c) Business Hours
    d) Maybe Map - depending on Google maps permissions or image of easily finding the shop
+   
+e) Get directions to the address. 
 
 4- Remove get in touch section at the bottom. DONT NEED IT. 
 
