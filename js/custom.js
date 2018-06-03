@@ -1,7 +1,20 @@
 (function ($) {
+	var images = [
+		"http://images.dealersync.com/cloud/userdocumentprod/2239/ServiceDeals/854f1203-8641-4c42-843f-5fc68153c5e5.jpg",
+		"https://i.ytimg.com/vi/mSPXqLdzyx4/maxresdefault.jpg",
+		"https://i.ytimg.com/vi/QKzuhxwjkvI/maxresdefault.jpg",
+		"https://carfromjapan.com/wp-content/uploads/2016/11/brake-replacement.jpg"
+	];
 
+	var index = 0;
+	document.getElementById("intro").style.backgroundImage = "url('"+images[index]+"')";
+	setInterval(function(){
+		index = index + 1;
+		if(index == images.length)
+			index = 0;
+		document.getElementById("intro").style.backgroundImage = "url('"+images[index]+"')";
+	}, 3000);
 	new WOW().init();
-
 	jQuery(window).load(function() { 
 		jQuery("#preloader").delay(100).fadeOut("slow");
 		jQuery("#load").delay(100).fadeOut("slow");
