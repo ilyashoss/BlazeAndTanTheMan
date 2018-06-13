@@ -7,12 +7,12 @@
 	];
 
 	var index = 0;
-	document.getElementById("intro").style.backgroundImage = "url('"+images[index]+"')";
+	document.getElementById("intro").getElementsByClassName( 'background' )[0].style.backgroundImage = "url('"+images[index]+"')";
 	setInterval(function(){
 		index = index + 1;
 		if(index == images.length)
 			index = 0;
-		document.getElementById("intro").style.backgroundImage = "url('"+images[index]+"')";
+		document.getElementById("intro").getElementsByClassName( 'background' )[0].style.backgroundImage = "url('"+images[index]+"')";
 	}, 3000);
 	new WOW().init();
 	jQuery(window).load(function() { 
